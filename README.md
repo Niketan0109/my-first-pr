@@ -1,7 +1,11 @@
  This repository is for beginners to make their first pull request and for anyone to create pull requests during Hacktoberfest 2019. Any PRs outside of hacktoberfest will still be considered, but may not count towards your hacktoberfest contributions.
 
 
+<<<<<< master
 #### Instructions:
+=======
+## Instructions:
+
 
 1.  Fork the repository.
 
@@ -9,7 +13,7 @@
 	`- [@username](https://github.com/username)`
 3.  Make a Pull Request (PR) via github.
 
-## Contributors:
+### Contributors:
 - [@AlternateF4](https://github.com/AlternateF4)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
