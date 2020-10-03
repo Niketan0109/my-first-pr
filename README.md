@@ -9,7 +9,7 @@
 	`- [@username](https://github.com/username)`
 3. Make a Pull Request (PR) via github.
 
-## Contributors:
+### Contributors:
 - [@AlternateF4](https://github.com/AlternateF4)
 
 - [@ojaswa1942](https://github.com/ojaswa1942)
