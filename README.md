@@ -3,7 +3,7 @@
 
 <<<<<< master
 ##Instructions:
-=======
+===
 ## Instructions:
 
 
