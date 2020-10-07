@@ -2,8 +2,8 @@
 
 
 <<<<<< master
-#### Instructions:
-=======
+##Instructions:
+===
 ## Instructions:
 
 
